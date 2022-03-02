@@ -1,8 +1,5 @@
-### :wave: Hi there!   
+## :wave: Hi there!   
 I'm studying mobile app development using Android
-***
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksm7558k)](https://solved.ac/ksm7558k/)
 
 # 💪Skills
 ### Platforms & Languages
@@ -15,3 +12,6 @@ I'm studying mobile app development using Android
 &nbsp;![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 &nbsp;![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
 &nbsp;![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+
+***
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksm7558k)](https://solved.ac/ksm7558k/)
