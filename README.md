@@ -1,4 +1,4 @@
-### Sang Min
+### Sang Min :blush:
 ### Hi there 👋
 
 <!--
